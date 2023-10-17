@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47062217839",
+    "project_id": "donation-98bee",
+    "storage_bucket": "donation-98bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47062217839:android:043f069437c93f97e8099a",
+        "android_client_info": {
+          "package_name": "com.donation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7dbPZQzrWvZT-p9e_8IaeQAmBkFIrEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
